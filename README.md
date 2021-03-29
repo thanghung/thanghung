@@ -1,9 +1,9 @@
 <!-- Nguyễn Thắng Hưng Profile -->
-<p align="center">
-  <a href="say-hi.gif"> 
-    <img align="center" src="say-hi.gif"/>
-  </a>
-</p>
+<div align="center"> 
+
+https://user-images.githubusercontent.com/45034330/112785668-5c0f9d80-9076-11eb-9012-fa300563911b.mp4
+
+</div>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanghung&show_icons=true&count_private=true&theme=dracula"/>
