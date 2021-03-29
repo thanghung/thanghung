@@ -1,7 +1,7 @@
 <!-- Nguyễn Thắng Hưng Profile -->
 <div align="center"> 
 
-![my-great-video](https://user-images.githubusercontent.com/45034330/112786084-48186b80-9077-11eb-876c-d4e446e2bd08.png)(https://user-images.githubusercontent.com/45034330/112786037-2e772400-9077-11eb-8f31-a86a84a1a125.mp4)
+[![my-great-video](https://user-images.githubusercontent.com/45034330/112786084-48186b80-9077-11eb-876c-d4e446e2bd08.png)](https://user-images.githubusercontent.com/45034330/112786037-2e772400-9077-11eb-8f31-a86a84a1a125.mp4)
 
 </div>
 <p align="center">
